@@ -1,0 +1,18 @@
+{
+  "summary": {
+    "title": "prueba",
+    "owner": "Majo",
+    "description": "esta es una prueba"
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [
+      {
+        "title": "Mi diagrama",
+        "thumbnail": "./public/content/images/thumbnail.jpg",
+        "id": 0
+      }
+    ],
+    "reviewer": "alquien mas"
+  }
+}
